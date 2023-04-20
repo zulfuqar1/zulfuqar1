@@ -1,4 +1,4 @@
-<img align="right" height="300" width="500" src="https://wallpaperaccess.com/full/5927911.gif" alt="">
+<img align="right" height="200" width="400" src="https://wallpaperaccess.com/full/5927911.gif" alt="">
 
 - 🌱 I’m currently learning - **Front-end**🌱
 
