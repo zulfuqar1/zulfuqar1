@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zulfuqar Aliev</h1>
+<h1 align="center">Hi , I'm Zulfuqar Aliev</h1>
 <h4 align="center">I am from Azerbaijan and l am 17 yo student. l am learning full stack developer.</h4></br>
 
 <img align="right" height="250" width="400" src="https://wallpaperaccess.com/full/5927911.gif" alt="">
