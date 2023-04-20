@@ -21,10 +21,10 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zulfuqar1&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=zulfuqar1&show_icons=true&theme=radical&title_color=a9fef7&text_color=d8387d&bg_color=141321&cache_seconds=600&locale=en&layout=compact" alt="zulfuqar1" /></p>
 
-![](https://github-readme-stats.vercel.app/api?username=zulfuqar1&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=zulfuqar1&show_icons=true&theme=radical&title_color=a9fef7&text_color=d8387d&cache_seconds=600&locale=en" alt="zulfuqar1" /></p>
 
 ---
 
