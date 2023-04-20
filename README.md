@@ -1,5 +1,4 @@
-<img align="right" height="250" width="450" src="https://wallpaperaccess.com/full/5927911.gif" alt="">
-<h1 align="center">Hi , I'm Zulfuqar Aliev</h1>
+<img align="right" height="300" width="500" src="https://wallpaperaccess.com/full/5927911.gif" alt="">
 
 - 🌱 I’m currently learning - **Front-end**🌱
 
