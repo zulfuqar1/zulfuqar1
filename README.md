@@ -5,9 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zulfuqar1&theme=onedark&margin-w=10&no-frame=true" />
-  </a>
+
+   
 </p>
 
 ---
@@ -50,5 +49,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zulfuqar1&theme=dark&hide_border=true" />
+ 
 </p>
