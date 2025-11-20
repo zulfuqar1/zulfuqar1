@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Zulfuqar 👋</h1>
+<h1 align="center">Full Stack Dew Student</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zulfuqar1&label=Profile+Views&color=b40e0e&style=flat-square" />
