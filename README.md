@@ -53,6 +53,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://impossible-silverfish-cbc.notion.site/THE-CODE-25399ad5f35b80bfa683ef548c4f4ca5?source=copy_link" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/notion.png" height="40" width="40" />
+  </a>
+</p>
+
 
 ---
 
