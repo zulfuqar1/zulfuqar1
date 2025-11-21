@@ -1,5 +1,7 @@
 <h1 align="center">Full Stack Dew Student</h1>
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=6A0DAD&center=true&vCenter=true&width=500&height=50&lines=Hello+my+name+is+Zulfuqar;I+am+a+Full-Stack+Developer)
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zulfuqar1&label=Profile+Views&color=b40e0e&style=flat-square" />
 </p>
