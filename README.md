@@ -51,7 +51,6 @@
   <a href="https://instagram.com/z.alliev" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
-
   <a href="https://impossible-silverfish-cbc.notion.site/THE-CODE-25399ad5f35b80bfa683ef548c4f4ca5?source=copy_link" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/notion.png" height="40" width="40" />
   </a>
