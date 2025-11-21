@@ -48,11 +48,29 @@
 
 ### 🔗 Connect with me
 <p align="center">
+  <!-- Instagram -->
   <a href="https://instagram.com/z.alliev" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
+  
+  <!-- Notion (beyaz ikon) -->
   <a href="https://impossible-silverfish-cbc.notion.site/THE-CODE-25399ad5f35b80bfa683ef548c4f4ca5?source=copy_link" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/notion.png" height="40" width="40" />
+  </a>
+  
+  <!-- Steam -->
+  <a href="https://store.steampowered.com/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/1b2838/steam.png" height="40" width="40" />
+  </a>
+  
+  <!-- Epic Games -->
+  <a href="https://www.epicgames.com/store/en-US/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/epic-games.png" height="40" width="40" />
+  </a>
+  
+  <!-- Pinterest -->
+  <a href="https://www.pinterest.com/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/BD081C/pinterest.png" height="40" width="40" />
   </a>
 </p>
 
