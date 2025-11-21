@@ -17,15 +17,6 @@
 
 ---
 
-### 🔗 Connect with me
-<p align="left">
-  <a href="https://instagram.com/z.alliev" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
-</p>
-
----
-
 ### 🧰 Languages & Tools
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" />
@@ -54,7 +45,14 @@
 
 </p>
 
+---
 
+### 🔗 Connect with me
+<p align="center">
+  <a href="https://instagram.com/z.alliev" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
+</p>
 
 
 ---
@@ -62,11 +60,10 @@
 ### 📊 Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zulfuqar1&show_icons=true&theme=dark&layout=compact&hide_border=true" />
-</p>
 
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zulfuqar1&show_icons=true&theme=dark&hide_border=true" />
 </p>
+
 
 <p align="center">
  
