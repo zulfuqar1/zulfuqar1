@@ -6,6 +6,12 @@
 
 <p align="center">
 
+### 🌐 About Me
+
+- **Junior Full-Stack Developer** (C#, .NET, JavaScript)  
+- Creative artist with experience in a small game-art team  
+- Skilled in dark-fantasy art style, concept design, and character creation  
+- Enjoy blending code and creativity to build unique digital experiences 
    
 </p>
 
