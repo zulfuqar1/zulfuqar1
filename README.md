@@ -3,16 +3,27 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&size=24&duration=3000&pause=500&color=9932CC&center=true&vCenter=true&width=500&height=50&lines=Hello+my+name+is+Zulfugar+Aliev;I'm+a+Full-Stack+Developer+Student)
 
 
-<p align="center">
 
-### 🌐 About Me
 
-- **Junior Full-Stack Developer**  
-- Creative artist with experience in a small game-art team  
-- Skilled in dark-fantasy art style, concept design, and character creation  
-- Enjoy blending code and creativity to build unique digital experiences 
-   
-</p>
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+  <!-- Sol taraf: Metin -->
+  <div>
+    <h3>🌐 About Me</h3>
+    <ul>
+      <li><b>Junior Full-Stack Developer</b></li>
+      <li>Creative artist with experience in a small game-art team</li>
+      <li>Skilled in dark-fantasy art style, concept design, and character creation</li>
+      <li>Enjoy blending code and creativity to build unique digital experiences</li>
+    </ul>
+  </div>
+
+  <!-- Sağ taraf: GIF -->
+  <div>
+    <img src="https://media.tenor.com/-E2dqWbhxgoAAAAj/cat-ruffles.gif" width="150"/>
+  </div>
+
+</div>
 
 ---
 
