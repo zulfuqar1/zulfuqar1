@@ -85,14 +85,13 @@
 </p>
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=;o;&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=;o;&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=;o;&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 ---
-
-### 📊 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zulfuqar1&show_icons=true&theme=dark&layout=compact&hide_border=true" />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=zulfuqar1&show_icons=true&theme=dark&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zulfuqar1&label=Profile+Views&color=b40e0e&style=flat-square" />
@@ -101,3 +100,5 @@
 <p align="center">
  
 </p>
+
+
