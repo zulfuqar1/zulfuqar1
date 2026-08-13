@@ -61,7 +61,7 @@
 <p align="center">
   <!-- Instagram -->
   <a href="https://instagram.com/z.alliev" target="_blank" style="text-decoration:none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" height="40" width="40" style="vertical-align:middle;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" height="40" width="40" style="vertical-align:middle;"/>
   </a>
   
   <!-- Notion -->
