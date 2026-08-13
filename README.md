@@ -13,7 +13,6 @@
     <ul>
       <li><b>Junior Full-Stack Developer</b></li>
      
-    </ul>
   </div>
 
   <!-- Sağ taraf: GIF -->
