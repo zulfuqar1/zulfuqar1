@@ -12,9 +12,7 @@
     <h3>🌐 About Me</h3>
     <ul>
       <li><b>Junior Full-Stack Developer</b></li>
-      <li>Creative artist with experience in a small game-art team</li>
-      <li>Skilled in dark-fantasy art style, concept design, and character creation</li>
-      <li>Enjoy blending code and creativity to build unique digital experiences</li>
+     
     </ul>
   </div>
 
