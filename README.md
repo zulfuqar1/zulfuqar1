@@ -11,8 +11,6 @@
       <li><b>Junior Full-Stack Developer</b></li>
      
   </div>
-
-  <!-- Sağ taraf: GIF -->
   <div>
     <img src="https://media.tenor.com/-E2dqWbhxgoAAAAj/cat-ruffles.gif" width="150"/>
     
@@ -83,10 +81,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" height="40" width="40" style="vertical-align:middle;"/>
   </a>
   
-  <!-- Steam -->
-  <a href="https://steamcommunity.com/profiles/76561199486895745/" target="_blank" style="text-decoration:none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/2048px-Steam_icon_logo.svg.png" height="40" width="40" style="vertical-align:middle;"/>
-  </a>
   <!-- Pinterest -->
   <a href="https://tr.pinterest.com/z_alliev" target="_blank" style="text-decoration:none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png" height="40" width="40" style="vertical-align:middle;"/>
@@ -94,7 +88,7 @@
   
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/zulfuqar-eliyev-8a8311274" target="_blank" style="text-decoration:none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" height="40" width="40" style="vertical-align:middle;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png?utm_source=commons.wikimedia.orgutm_campaign=index&utm_content=thumbnail_unscaled&_=20140125013055" height="40" width="40" style="vertical-align:middle;"/>
   </a>
 </p>
 
@@ -102,36 +96,5 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zulfuqar1&label=Profile+Views&color=b40e0e&style=flat-square" />
-</p>
-
-<p align="center">
- 
-</p>
-
-
-###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="120" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=midnight-purple&hide_border=false&order=2" height="120" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/trophy-output/trophy.svg?theme=darkhub&column=-1&row=1&margin-w=12&margin-h=5&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/activity-graph-output/activity-graph.svg?radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="260" alt="activity-graph graph"  />
-</div>
-
-###
 
 
