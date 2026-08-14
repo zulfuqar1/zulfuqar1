@@ -2,9 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&size=24&duration=3000&pause=500&color=9932CC&center=true&vCenter=true&width=500&height=50&lines=Hello+my+name+is+Zulfugar+Aliev;I'm+a+Full-Stack+Developer+Student)
 
-
-
-
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
   <!-- Sol taraf: Metin -->
@@ -18,13 +15,17 @@
   <!-- Sağ taraf: GIF -->
   <div>
     <img src="https://media.tenor.com/-E2dqWbhxgoAAAAj/cat-ruffles.gif" width="150"/>
+    
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31bccbkgrvihb3rn6hjijs4zu4ni)
+
+    
   </div>
 
 </div>
 
----
 
-### 🧰 Languages & Tools
+
+---
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" />
@@ -39,7 +40,23 @@
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" />
   <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+
+  
 </p>
+
+
 <p align="center"> 
   
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
@@ -92,5 +109,29 @@
 <p align="center">
  
 </p>
+
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="120" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=midnight-purple&hide_border=false&order=2" height="120" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/trophy-output/trophy.svg?theme=darkhub&column=-1&row=1&margin-w=12&margin-h=5&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/activity-graph-output/activity-graph.svg?radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="260" alt="activity-graph graph"  />
+</div>
+
+###
 
 
