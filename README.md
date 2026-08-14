@@ -42,7 +42,6 @@
 
   <br><br>
 
-  <h3>🔗 Connect with me</h3>
 
   <a href="https://instagram.com/z.alliev">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" height="40" width="40"/>
