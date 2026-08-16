@@ -6,7 +6,7 @@
 
   <img src="https://media.tenor.com/-E2dqWbhxgoAAAAj/cat-ruffles.gif" width="150"/>
   &nbsp;&nbsp;
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31bccbkgrvihb3rn6hjijs4zu4ni" />
+ 
 
   <br><br>
 
@@ -60,3 +60,8 @@
   </a>
 
 </div>
+<br><br>
+
+<div align="center">
+ <img src="https://spotify-recently-played-readme.vercel.app/api?user=31bccbkgrvihb3rn6hjijs4zu4ni" />
+ </div>
