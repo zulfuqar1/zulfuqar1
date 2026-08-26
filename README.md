@@ -1,11 +1,10 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=24&duration=3000&pause=500&color=9932CC&center=true&vCenter=true&width=500&height=50&lines=Hello+my+name+is+Zulfugar+Aliev;I'm+a+Full-Stack+Developer+Student" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=24&duration=3000&pause=500&color=9932CC&center=true&vCenter=true&width=500&height=50&lines=Hello+my+name+is+Zulfugar+Aliev;I'm+a+Full-Stack+Developer" />
 
   <br><br>
 
-  <img src="https://media.tenor.com/-E2dqWbhxgoAAAAj/cat-ruffles.gif" width="150"/>
-  &nbsp;&nbsp;
+ 
  
 
   <br><br>
