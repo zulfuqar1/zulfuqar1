@@ -4,9 +4,6 @@
 
   <br><br>
 
-  
- 
-
   <br><br>
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" />
