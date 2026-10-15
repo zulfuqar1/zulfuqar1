@@ -3,9 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=24&duration=3000&pause=500&color=9932CC&center=true&vCenter=true&width=500&height=50&lines=Hello+my+name+is+Zulfugar+Aliev;I'm+a+Full-Stack+Developer" />
 
   <br><br>
-
-
-
   <br><br>
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" />
